@@ -1,6 +1,6 @@
 token=NTA3NDU1ODgwMjE2NzA3MDcy.DrxpVw.-y-dw3U970RqvNpdMkWkhCaESXM
 owner=447575112380841985
-prefix=1
-game=Type|1help.
+prefix=!
+game=Type|!help.
 stayinchannel=true
 songinstatus=true
